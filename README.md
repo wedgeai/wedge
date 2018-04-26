@@ -2,9 +2,9 @@
 
 Business + Blockchain
 
-Wedge is a forward thinking personal finance and business management blockchain app.
+Wedge is a forward thinking business management blockchain app.
 
-It features an AI chatbot personal assistant with industry leading analytics and provides an easy to use and highly effective business software experience.
+It features an AI chatbot personal assistant with insightful analytics and provides an easy to use and highly effective business software experience.
 
 Our full-version platform will be able to operate across and interact with a number of different blockchain platforms.
 
